@@ -1,0 +1,6 @@
+﻿namespace xUnitTestEssaySampleTests
+{
+    class Tests
+    {
+    }
+}
